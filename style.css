@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    width: 300px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+}
+ .flex-container div{
+    background-color: brown;
+    height: 100px;
+    width: 32%;
+    border: 1px solid whitesmoke;
+    color: thistle;
+    align-items: center;
+} 
